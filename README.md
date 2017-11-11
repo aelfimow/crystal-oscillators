@@ -14,6 +14,7 @@ My home-made crystal oscillators.
 
 # 6 MHz crystal oscillators
 1. ![6 MHz crystal oscillator 1](CO-6MHz-1/README.md)
+2. ![6 MHz crystal oscillator 2](CO-6MHz-2/README.md)
 
 # 12 MHz crystal oscillators
 1. ![12 MHz crystal oscillator 1](CO-12MHz-1/README.md)
